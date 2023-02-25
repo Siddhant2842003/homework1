@@ -7,3 +7,7 @@ Git generates a new commit when you merge a branch into another branch that incl
 By doing this, a new branch is created that contains every change made to both branches.
 
 On the other hand, rebasing entails transferring the entire branch to a new base commit. Git produces a new branch when you rebase a branch upon another branch.
+
+What is a remote repository?
+
+A remote repository is a version control repository that is hosted on a remote server or platform, typically on the internet, rather than on a local machine. Remote repositories enable collaboration between multiple users working on the same codebase, as changes can be shared and merged across different machines and locations. 
