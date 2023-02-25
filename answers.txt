@@ -1,0 +1,9 @@
+What is the difference between a merge and a rebase?
+
+Integrating changes from one branch into another branch in a Git repository can be done using either merging or rebasing. 
+
+Making a new "merge commit" that integrates the modifications from the two branches is the process of merging. 
+Git generates a new commit when you merge a branch into another branch that includes two parent commits: one from the original branch and one from the new branch. 
+By doing this, a new branch is created that contains every change made to both branches.
+
+On the other hand, rebasing entails transferring the entire branch to a new base commit. Git produces a new branch when you rebase a branch upon another branch.
